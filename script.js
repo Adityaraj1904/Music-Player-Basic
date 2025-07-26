@@ -14,21 +14,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: '/Music Player App/1.mp3',
+        path: '1.mp3',
         displayName: 'The Charmer\'s Call',
-        cover: '/Music Player App/1.png',
+        cover: '1.png',
         artist: 'Hanu Dixit',
     },
     {
-        path: '/Music Player App/2.mp3',
+        path: '2.mp3',
         displayName: 'You Will Never See Me Coming',
-        cover: '/Music Player App/2.png',
+        cover: '2.png',
         artist: 'NEFFEX',
     },
     {
-        path: '/Music Player App/3.mp3',
+        path: '3.mp3',
         displayName: 'Intellect',
-        cover: '/Music Player App/3.png',
+        cover: '3.png',
         artist: 'Yung Logos',
     }
 ];
